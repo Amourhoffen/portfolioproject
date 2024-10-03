@@ -1,2 +1,2 @@
-# Portfolio Project
+# Prince Portfolio Project
 I DEVELOPED THIS WEBSITE USING HTML , CSS , JAVASCRIPT. 
