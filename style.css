@@ -73,13 +73,7 @@
     cursor: pointer;
     font-size: 1.15vw;
   }
-  video {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    
-    position: fixed;
-  }
+  
   
   #main {
     position: relative;
